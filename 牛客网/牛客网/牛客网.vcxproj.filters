@@ -1,0 +1,265 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="03从尾到头打印链表.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="04两个栈实现一个队列.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="05旋转数组.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="06斐波那些数列.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="07青蛙跳台阶菲薄那些.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="08变态跳台阶.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="09矩形覆盖.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="10二进制中1的个数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="11数值的整数次方.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="13输出链表的倒数第k个节点.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="14翻转链表.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="12调整数组的奇偶顺序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="17镜像二叉树.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="18回形打印矩阵.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="19实现栈中最小的元素.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="20栈的压入和弹出.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="21按层打印节点.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="22判断二叉搜索树后序遍历.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="23查找二叉树的路径和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="快速排序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="01找数组的整数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="02空格替换.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="24二叉搜索树的双向链表.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="16树的子结构_正向理解递归.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="15合并两个链表_反向理解递归.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="00递归调用.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="25字符串排列.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="26数组出现一半的数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="27最小的k个数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="28连续子数组的最大和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="29整数区间1出现的次数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="30把数组排成最小的数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="31丑数只含有235因子.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="32找出第一个只出现一次的字符.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="34查找两个链表的公共节点.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="35统计有序数组某个数出现的次数_二分查找.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="36二叉树的深度.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="37判断平衡二叉树.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="38数组中只出现一次的两个数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="39输出和为S的序列.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="40输出和为S的两个数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="41将字符串左移n位.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="42翻转单词.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="43扑克牌顺子.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="44圆圈中最后剩下的数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="45求1+2+n.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="46不用加法做两数相加.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="47将一个字符串转为数字.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="64矩阵的路径.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="65机器人能到达的最远的格子.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="63寻找窗口的最大值.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="61找搜索二叉树第k大的值.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="60二叉树的序列化和解序列化.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="59按层打印二叉树.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="57判断镜像二叉树.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="56删除链表的重复节点.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="54字符流中第一个不重复的字符.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="53判断字符串是否表示数值.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="52正则表达式模式匹配.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="50找出数组中的重复数组.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="55找到链表环的入口.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="58回形打印二叉树.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="00重建二叉树.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="00复杂链表的复制.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="00输出数组逆序对.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="阿里编程题图着色.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="背包问题.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="网易8双核cpu.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="网易9调整字符串.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="网易在线1.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="网易在线2.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="字符串.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="华为求最大子数组.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="单例模式.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="腾讯笔试1.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="腾讯笔试2.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="腾讯笔试3.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="京东求范围内的最小公倍数.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="京东求最长回文子串.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="string功能的实现.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="招商求子串出现的次数.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
